@@ -1,0 +1,10 @@
+[package]
+name = "hadith-rs-takhrij-multi-book"
+version = "1.0.0"
+edition = "2021"
+description = "Automated Hadith Takhrij Cross-Indexer Across Kutub Al-Sittah"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "hadith_rs_takhrij_multi_book"
+path = "main.rs"
